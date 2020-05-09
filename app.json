@@ -6,10 +6,10 @@
 	"env": {
 		"PASSWORD": {
 			"description": "trojan password",
-			"value": "test"
+			"value": "test123456"
 		}
 	},
-	"website": "http://www.baidu.com",
-	"repository": "https://github.com/VerSign010/trojan-1",
+	"website": "https://github.com/trojan-gfw/trojan",
+	"repository": "https://github.com/trojan-gfw/trojan",
 	"stack": "container"
 } 
