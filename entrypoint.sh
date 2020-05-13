@@ -1,1 +1,0 @@
-systemctl start trojan.service 
